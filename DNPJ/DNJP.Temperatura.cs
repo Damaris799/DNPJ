@@ -10,6 +10,7 @@ using System.Threading.Tasks;
     {
         public class ConvertidorTemperatura
         {
+
             public double CelsiusAFaherenheit(double celsius)
             {
                 return (celsius * 9 / 5) + 32;
