@@ -30,6 +30,6 @@ public class StringManipulatorTests
 
         var result = _stringManipulator.RemoveSpaces(input);
 
-        Assert.Equal("Hola", result);
+        Assert.Equal ("Hola", result);
     }
 }
